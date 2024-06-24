@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'sentiment-analyzer-user-interface';
+  title = 'sentiment-analyzer-user-interface-test';
 }
